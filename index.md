@@ -5,7 +5,5 @@
 layout: single
 author_profile: true
 ---
-# **AURA** is for you, or someone you **love**. Jewellery made easy.
--Hoops
--Rings
--Chains & pendants
+# **Simply beautiful. Affordable. Lasting. 
+
