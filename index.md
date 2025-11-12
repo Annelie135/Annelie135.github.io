@@ -5,5 +5,5 @@
 layout: single
 author_profile: true
 ---
-# **Simply beautiful. Affordable. Lasting. 
+# Simply beautiful. Affordable. Lasting. 
 
