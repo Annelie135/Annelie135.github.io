@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Annelie Smit"
-  avatar : "/assets/images/pearl_necklace.jpg"
+  avatar : "/assets/images/pearl_necklace.png"
   bio    : "Secondhand silver at your fingertips."
   links:
     - label: "Website"
