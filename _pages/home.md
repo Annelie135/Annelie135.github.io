@@ -1,5 +1,6 @@
 ---
 layout: splash
+title: Silver & Gold Jewellery
 permalink: /
 hidden: true
 classes: wide
