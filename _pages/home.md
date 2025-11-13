@@ -2,6 +2,7 @@
 layout: splash
 permalink: /
 hidden: true
+classes: wide
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/bracelet.png
