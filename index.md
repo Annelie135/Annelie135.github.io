@@ -1,5 +1,8 @@
 ---
-layout: splash
+#
+#
+#
+layout: home
 title: "Aura Jewellery"
 permalink: /
 header:
