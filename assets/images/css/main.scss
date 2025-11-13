@@ -3,7 +3,7 @@
 search: false
 ---
 .page__hero--overlay {
-  min-height: 80vh; /* 80% of the viewport height */}
+  min-height: 100vh; /* 100% of the viewport height */}
 @charset "utf-8";
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
