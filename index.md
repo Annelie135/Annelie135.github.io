@@ -3,7 +3,7 @@
 #
 #
 layout: splash
-title: "Jewellery"
+title: "Silver and Gold Jewellery"
 permalink: /
 header:
   overlay_color: "#000"          # background overlay color (semi-transparent)
