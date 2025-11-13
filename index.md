@@ -2,7 +2,7 @@
 #
 #
 #
-layout: home
+layout: splash
 title: "Aura Jewellery"
 permalink: /
 header:
