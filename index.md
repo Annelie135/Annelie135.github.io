@@ -9,6 +9,7 @@ header:
   cta_label: "Shop the Collection"
   cta_url: "/shop/"              # link your button to your shop page
   caption: "Where elegance begins."
+  height: 100vh
 excerpt: "Handcrafted jewellery that captures effortless beauty."
 intro:
   - excerpt: "Minimal. Modern. Made to last."
