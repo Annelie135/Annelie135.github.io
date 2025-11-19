@@ -3,7 +3,7 @@
 #
 #
 layout: splash
-title: "Soap & Bubbles"
+title: "Wildflower"
 permalink: /
 header:
   overlay_color: "#000"          # background overlay color (semi-transparent)
@@ -11,7 +11,7 @@ header:
   overlay_image: /assets/images/bracelet.png  # optional background image
   cta_label: "Shop the Collection"
   cta_url: "/shop/"              # link your button to your shop page
-  caption: "Where glowy skin begins."
+  #caption: "Where glowy skin begins."
   height: 100vh
 excerpt: "Handcrafted, natural soaps."
 intro:
