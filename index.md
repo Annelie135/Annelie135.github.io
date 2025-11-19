@@ -11,16 +11,17 @@ header:
     url: "/pages/Shop"
     btn_class: "btn--primary"
   #caption: "Where glowy skin begins.
-excerpt: "Handcrafted, natural soaps."
+excerpt: >
+"Handcrafted, natural soaps."
 intro:
-  - excerpt: "Minimal. Modern. Made to last."
+  - excerpt: "Simple. Natural. Moisturising"
 feature_row:
-  - image_path: /assets/images/pearl_necklace.png
-    alt: "Necklace"
-    title: "Everyday Luxury"
-    excerpt: "Designed to elevate your everyday look."
-    url: "/pages/Necklaces/"
-    btn_label: "View More"
+  - image_path: /assets/images/Wood.png
+    alt: "Mini soaps"
+    title: "Mini soaps"
+    excerpt: "A curated set of our signature body bars for a sampling of natural luxury."
+    url: "/pages/Mini/"
+    label: "View More"
     btn_class: "btn--primary"
   - image_path: /assets/images/rings.jpg
     alt: "Rings"
