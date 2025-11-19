@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: Silver & Gold Jewellery
+title: Wildflower
 permalink: /
 hidden: true
 classes: wide
