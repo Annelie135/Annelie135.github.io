@@ -1,8 +1,13 @@
-/* Center navigation menu */
+---
+---
+
+@import "minimal-mistakes/skins/dirty"; // or your chosen skin
+@import "minimal-mistakes";               // load the theme
+
+/* Custom navigation centering */
 .masthead__menu {
   justify-content: center !important;
 }
 
-/* Center the items inside the navigation */
 .masthead__menu-item {
   text-align: center !important;}
