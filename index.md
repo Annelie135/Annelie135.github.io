@@ -9,7 +9,7 @@ header:
   overlay_color: "#000"          # background overlay color (semi-transparent)
   overlay_filter: "0.3"          # opacity from 0–1
   overlay_image: /assets/images/Widenavy.png  # optional background image
- - label: "Shop the Collection"
+  label: "Shop the Collection"
   url: "/shop/"              # link your button to your shop page
   btn_class: "btn--primary"
   #caption: "Where glowy skin begins."
