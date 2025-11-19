@@ -15,7 +15,7 @@ twitter_username: username
 github_username: username
 minimal_mistakes_skin: "dirt"
 custom_css:
-  - /assets/css/main.css
+  - /assets/images/css/main.css
 search: true
 
 
