@@ -56,7 +56,13 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
-
+navigation:
+  - title: "Shop"
+    url: /pages/Shop/
+  - title: "About us"
+    url: /pages/about us/
+  - title: "Contact"
+    url: /pages/contact/
 author:
   #name   : "Annelie Smit"
   #avatar : "/assets/images/pearl_necklace.png"
