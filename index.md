@@ -11,7 +11,7 @@ header:
     url: "/pages/Shop"
     btn_class: "btn--primary"
   #caption: "Where glowy skin begins.
-excerpt:> "Handcrafted, natural soaps."
+excerpt: "Handcrafted, natural soaps."
 intro:
   - excerpt: "Minimal. Modern. Made to last."
 feature_row:
