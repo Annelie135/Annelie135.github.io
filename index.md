@@ -9,11 +9,12 @@ header:
   overlay_color: "#000"          # background overlay color (semi-transparent)
   overlay_filter: "0.3"          # opacity from 0–1
   overlay_image: /assets/images/Widenavy.png  # optional background image
-  cta_label: "Shop the Collection"
-  cta_url: "/shop/"              # link your button to your shop page
-  btn_class: "btn--primary"
-  #caption: "Where glowy skin begins."
   height: 100vh
+  action:
+  - label: "Shop the Collection"
+    url: "/shop/"
+    btn_class: "btn--primary"
+  #caption: "Where glowy skin begins.
 excerpt: "Handcrafted, natural soaps."
 intro:
   - excerpt: "Minimal. Modern. Made to last."
