@@ -1,7 +1,4 @@
 ---
-#
-#
-#
 layout: splash
 title: "Wildflower"
 permalink: /
@@ -9,13 +6,12 @@ header:
   overlay_color: "#000"          # background overlay color (semi-transparent)
   overlay_filter: "0.3"          # opacity from 0–1
   overlay_image: /assets/images/Widenavy.png  # optional background image
-  height: 100vh
-  action:
-  - label: "Shop the Collection"
-    url: "/shop/"
+  actions:
+  - label: "Shop now"
+    url: "/pages/Shop"
     btn_class: "btn--primary"
   #caption: "Where glowy skin begins.
-excerpt: "Handcrafted, natural soaps."
+excerpt:> "Handcrafted, natural soaps."
 intro:
   - excerpt: "Minimal. Modern. Made to last."
 feature_row:
