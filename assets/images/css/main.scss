@@ -1,10 +1,8 @@
----
-# Only the main Sass file needs front matter (the dashes are enough)
-search: false
----
-.page__hero--overlay {
-  min-height: 100vh; /* 100% of the viewport height */}
-@charset "utf-8";
+/* Center navigation menu */
+.masthead__menu {
+  justify-content: center !important;
+}
 
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
-@import "minimal-mistakes"; // main partials
+/* Center the items inside the navigation */
+.masthead__menu-item {
+  text-align: center !important;}
