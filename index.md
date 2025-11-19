@@ -11,9 +11,9 @@ header:
   overlay_image: /assets/images/bracelet.png  # optional background image
   cta_label: "Shop the Collection"
   cta_url: "/shop/"              # link your button to your shop page
-  caption: "Where elegance begins."
+  caption: "Where glowy skin begins."
   height: 100vh
-excerpt: "Handcrafted jewellery that captures effortless beauty."
+excerpt: "Handcrafted, natural soaps."
 intro:
   - excerpt: "Minimal. Modern. Made to last."
 feature_row:
