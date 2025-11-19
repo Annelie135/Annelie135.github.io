@@ -1,13 +1,8 @@
 main:
-  - title: "All jewellery"
-    url: /all jewellery/
-  - title: "Holiday gifts"
-    url: /holiday gifts/
-  - title: "New in"
-    url: /new in/
-  - title: "Best sellers"
-    url: /best sellers/
+  - title: "Shop"
+    url: /Shop/
   - title: "About us"
-    url: /about us/
+    url: /pages/about us/
   - title: "Contact"
-    url: /contact/
+    url: /pages/contact
+
