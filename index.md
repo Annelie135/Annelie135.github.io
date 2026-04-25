@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "Wildflower"
+title: "AURA"
 permalink: /
 header:
   overlay_color: "#000"          # background overlay color (semi-transparent)
@@ -11,7 +11,7 @@ header:
     url: "/pages/Shop"
     btn_class: "btn--primary"
   #caption: "Where glowy skin begins.
-excerpt: "Handcrafted, natural soaps."
+excerpt: "Sterling silver jewellery."
 intro:
   - excerpt: "Simple. Natural. Moisturising"
 feature_row:
