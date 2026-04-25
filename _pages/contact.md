@@ -1,4 +1,93 @@
 
+---
+title: "Contact"
+permalink: /pages/contact/
+layout: single
+---
+
+<style>
+.contact-wrapper {
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 2rem 0;
+  font-family: inherit;
+}
+
+.contact-intro {
+  margin-bottom: 2.5rem;
+}
+
+.contact-intro p {
+  color: #666;
+  font-size: 1.05rem;
+  line-height: 1.7;
+}
+
+.contact-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2.5rem;
+  margin-bottom: 2.5rem;
+}
+
+@media (max-width: 600px) {
+  .contact-grid { grid-template-columns: 1fr; }
+}
+
+.contact-info h3 {
+  font-size: 0.75rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: #999;
+  margin-bottom: 1rem;
+}
+
+.info-item {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 1.2rem;
+}
+
+.info-label {
+  font-size: 0.8rem;
+  color: #999;
+  margin-bottom: 0.15rem;
+}
+
+.info-value {
+  font-size: 0.95rem;
+  color: #333;
+  font-weight: 500;
+}
+
+.info-value a {
+  color: #333;
+  text-decoration: none;
+  border-bottom: 1px solid #ddd;
+  transition: border-color 0.2s;
+}
+
+.info-value a:hover {
+  border-color: #333;
+}
+
+.availability-badge {
+  display: inline-block;
+  background: #f0faf0;
+  color: #2d7a2d;
+  font-size: 0.8rem;
+  padding: 0.25rem 0.65rem;
+  border-radius: 20px;
+  font-weight: 500;
+  margin-top: 0.25rem;
+}
+
+.contact-form h3 {
+  font-size: 0.75rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: #999;
+  margin-bottom: 1rem;
 }
 
 .contact-form form {
