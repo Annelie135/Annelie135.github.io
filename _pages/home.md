@@ -22,7 +22,7 @@ feature_row:
     url: "/pages/earrings/"
     btn_class: "btn--primary"
     btn_label: "View Collection"
-
+feature_row2:
   - image_path: /assets/images/rings.png
     alt: "Rings"
     title: "Rings"
@@ -30,7 +30,7 @@ feature_row:
     url: "/pages/rings/"
     btn_class: "btn--primary"
     btn_label: "View Collection"
-
+feature_row3:
   - image_path: /assets/images/pendants.png
     alt: "Pendants"
     title: "Pendants"
