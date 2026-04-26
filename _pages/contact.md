@@ -187,9 +187,9 @@ layout: single
 
     <div class="contact-form">
       <h3>Send a Message</h3>
-      <form action="https://formspree.io/f/YOUR_FORM_ID" method="POST">
+      <form action="https://formspree.io/f/xaqakvqn" method="POST">
         <input type="text" name="name" placeholder="Your name" required>
-        <input type="email" name="email" placeholder="your@email.com" required>
+        <input type="email" name="email" placeholder="smit.annelie1@gmail.com" required>
         <input type="text" name="subject" placeholder="Subject">
         <textarea name="message" placeholder="Your message..." required></textarea>
         <button type="submit">Send →</button>
