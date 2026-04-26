@@ -5,8 +5,8 @@ permalink: /
 hidden: true
 classes: wide
 header:
-  overlay_color: "#5e616c"
   overlay_image: /assets/images/pearl_necklace.png
+  overlay_filter: 0.2   # lighter overlay (clean + bright)
   actions:
     - label: "<i class='fas fa-shopping-bag'></i> Shop now"
       url: "/pages/all-jewellery/"
