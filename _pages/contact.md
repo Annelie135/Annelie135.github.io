@@ -1,6 +1,5 @@
 
-Here is your complete, final contact page code:
-markdown---
+---
 title: "Contact"
 permalink: /pages/contact/
 layout: single
