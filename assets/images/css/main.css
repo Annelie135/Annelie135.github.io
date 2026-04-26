@@ -1,8 +1,17 @@
-/* Center navigation menu */
-.masthead__menu {
-  justify-content: center !important;
+.page__hero--overlay {
+  min-height: 85vh;
 }
 
-.masthead__menu-item {
-  text-align: center !important;
+.page__hero-image {
+  height: 85vh;
+  object-fit: cover;
+}
+
+/* Button styling */
+.btn--primary {
+  background-color: #d8cbb3;
+  color: #2a2a2a;
+  border-radius: 30px;
+  padding: 10px 22px;
+  border: none;
 }
