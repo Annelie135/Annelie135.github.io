@@ -1,5 +1,6 @@
 
----
+Here is your complete, final contact page code:
+markdown---
 title: "Contact"
 permalink: /pages/contact/
 layout: single
@@ -133,10 +134,14 @@ layout: single
   font-family: inherit;
   cursor: pointer;
   transition: background 0.2s;
+  text-align: center;
+  text-decoration: none;
+  display: block;
 }
 
 .contact-form button:hover {
   background: #444;
+  color: #fff;
 }
 
 .divider {
@@ -188,8 +193,9 @@ layout: single
     <div class="contact-form">
       <h3>Send a Message</h3>
       <form action="https://formspree.io/f/xaqakvqn" method="POST">
+        <input type="hidden" name="_replyto" value="smit.annelie1@gmail.com">
         <input type="text" name="name" placeholder="Your name" required>
-        <input type="email" name="email" placeholder="smit.annelie1@gmail.com" required>
+        <input type="email" name="email" placeholder="your@email.com" required>
         <input type="text" name="subject" placeholder="Subject">
         <textarea name="message" placeholder="Your message..." required></textarea>
         <button type="submit">Send →</button>
