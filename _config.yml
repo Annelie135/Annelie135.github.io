@@ -16,6 +16,13 @@ github_username: username
 minimal_mistakes_skin: "air"
 custom_css:
   - /assets/images/css/main.css
+header:
+  overlay_image: /assets/images/pearl_necklace.jpg
+  overlay_filter: 0.3
+  caption: ""
+  actions:
+    - label: "Shop now"
+      url: "/shop"
 search: true
 
 
