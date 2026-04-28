@@ -29,8 +29,8 @@ feature_row:
     url: "/pages/Rings/"
     btn_label: "Explore"
     btn_class: "btn--primary"
-  - image_path: /assets/images/pearl_necklace.png
-    alt: "Pendants"
+  - image_path: /assets/images/bracelet.png
+    alt: "Bracelets"
     title: "Effortless Shine"
     excerpt: "Subtle details that make a statement."
     url: "/pages/Pendants/"
