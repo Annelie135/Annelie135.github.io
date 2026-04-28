@@ -1,5 +1,5 @@
 ---
-permalink: /_pages/Shop.md
+permalink: /_pages/Shop
 title: "Shop"
 ---
 
