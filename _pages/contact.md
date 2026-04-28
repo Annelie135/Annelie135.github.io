@@ -1,7 +1,7 @@
 
 ---
 title: "Contact"
-permalink: /pages/contact/
+permalink: /_pages/contact/
 layout: single
 ---
 
