@@ -1,5 +1,5 @@
 ---
-permalink: /About us/
+permalink: /_pages/about-us/
 title: "About us"
 ---
 We believe that natural, gentle soaps are the future for us and our loved ones.
