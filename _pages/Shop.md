@@ -1,5 +1,5 @@
 ---
-permalink: /pages/Shop
+permalink: /pages/Shop/
 title: "Shop"
 ---
 
