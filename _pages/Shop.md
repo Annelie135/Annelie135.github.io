@@ -1,5 +1,5 @@
 ---
-permalink: /Shop/
+permalink: /_pages/Shop.md
 title: "Shop"
 ---
 
