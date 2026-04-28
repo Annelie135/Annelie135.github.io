@@ -13,7 +13,7 @@ header:
   #caption: "Where glowy skin begins.
 excerpt: "Sterling silver jewellery."
 intro:
-  - excerpt: "Simple. Natural. Moisturising"
+  - excerpt: "Simple. Stunning. Made to last a lifetime"
 feature_row:
   - image_path: /assets/images/earrings.png
     alt: "Earrings"
@@ -22,18 +22,18 @@ feature_row:
     url: "/pages/Earrings/"
     label: "View More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/rings.jpg
+  - image_path: /assets/images/rings.png
     alt: "Rings"
     title: "Timeless Pieces"
     excerpt: "Crafted to last a lifetime."
     url: "/pages/Rings/"
     btn_label: "Explore"
     btn_class: "btn--primary"
-  - image_path: /assets/images/earrings.jpg
-    alt: "Earrings"
+  - image_path: /assets/images/pearl_necklace.png
+    alt: "Pendants"
     title: "Effortless Shine"
     excerpt: "Subtle details that make a statement."
-    url: "/pages/Earrings/"
+    url: "/pages/Pendants/"
     btn_label: "Discover"
     btn_class: "btn--primary"
 ---
