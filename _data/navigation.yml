@@ -1,8 +1,8 @@
 main:
   - title: "Shop"
-    url: /Shop/
+    url: /pages/Shop/
   - title: "About us"
-    url: /pages/about us/
+    url: /pages/about-us/
   - title: "Contact"
     url: /pages/contact
 
