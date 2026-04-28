@@ -1,0 +1,5 @@
+---
+title: Earrings
+permalink: /
+
+---
