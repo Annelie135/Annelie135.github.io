@@ -1,0 +1,4 @@
+---
+title: Rings
+permalink: /
+---
