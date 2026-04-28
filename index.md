@@ -5,7 +5,7 @@ permalink: /
 header:
   overlay_color: "#000"          # background overlay color (semi-transparent)
   overlay_filter: "0.3"          # opacity from 0–1
-  overlay_image: /assets/images/Widenavy.png  # optional background image
+  overlay_image: /assets/images/pearl_necklace.png  # optional background image
   actions:
   - label: "Shop now"
     url: "/pages/Shop"
