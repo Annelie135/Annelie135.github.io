@@ -15,11 +15,11 @@ excerpt: "Sterling silver jewellery."
 intro:
   - excerpt: "Simple. Natural. Moisturising"
 feature_row:
-  - image_path: /assets/images/Wood.png
-    alt: "Mini soaps"
-    title: "Mini soaps"
-    excerpt: "A curated set of our signature body bars for a sampling of natural luxury."
-    url: "/pages/Mini/"
+  - image_path: /assets/images/earrings.png
+    alt: "Earrings"
+    title: "Earrings"
+    excerpt: "Elegant sterling silver earrings, perfect for yourself or a loved one."
+    url: "/pages/Earrings/"
     label: "View More"
     btn_class: "btn--primary"
   - image_path: /assets/images/rings.jpg
